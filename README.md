@@ -1,5 +1,7 @@
 # Docker Push Action
 
+![Docker](https://github.com/figleafteam/action-docker/workflows/Docker/badge.svg)
+
 ## Usage
 
 ```yaml
